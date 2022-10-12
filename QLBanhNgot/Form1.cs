@@ -8,10 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// Cknhat
-// Phuc
-// Cknhat 2
-
 
 namespace QLBanhNgot
 {
