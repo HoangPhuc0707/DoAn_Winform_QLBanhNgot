@@ -30,13 +30,17 @@ namespace QLBanhNgot
             this.Close();
         }
         #endregion
-        //code đăng nhập
+
         private void button1_Click(object sender, EventArgs e)
         {
             SanPham sp = new SanPham();
             sp.Show();
         }
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
 
     }
 }
