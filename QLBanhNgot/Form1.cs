@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 // Cknhat
 // Phuc
+// Cknhat 2
+
 
 namespace QLBanhNgot
 {
