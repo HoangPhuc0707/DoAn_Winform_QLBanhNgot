@@ -15,6 +15,7 @@ namespace QLBanhNgot
         public DSDonHang()
         {
             InitializeComponent();
+            //cho kiet ngu
         }
 
         
