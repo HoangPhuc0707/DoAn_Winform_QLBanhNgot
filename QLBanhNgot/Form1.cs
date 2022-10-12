@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // Cknhat
+// Phuc
 
 namespace QLBanhNgot
 {
@@ -35,6 +36,11 @@ namespace QLBanhNgot
         {
             SanPham sp = new SanPham();
             sp.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
