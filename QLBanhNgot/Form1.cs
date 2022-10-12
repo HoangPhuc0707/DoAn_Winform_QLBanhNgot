@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-
+//QlQanhngot
 namespace QLBanhNgot
 {
     public partial class Form1 : Form
@@ -30,7 +30,7 @@ namespace QLBanhNgot
             this.Close();
         }
         #endregion
-        //code đăng nhập
+
         private void button1_Click(object sender, EventArgs e)
         {
             SanPham sp = new SanPham();
