@@ -121,14 +121,17 @@
   <data name="kisspng-padlock-computer-icons-security-icon-design-5ae658a9a2b549.4089187715250454176665" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kisspng-padlock-computer-icons-security-icon-design-5ae658a9a2b549.4089187715250454176665.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="9404.png_860" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\9404.png_860.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Banner3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Banner3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="551dd8fa41261ccbb71bb70bc0b92013" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\551dd8fa41261ccbb71bb70bc0b92013.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Banner3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Banner3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="9404.png_860" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9404.png_860.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BUNS_Banner" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BUNS_Banner.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -138,6 +141,9 @@
   </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mủi tên" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mủi tên.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ProductBox" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ProductBox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,8 +169,8 @@
   <data name="transparent-lock-icon-law-and-justice-icon-5e05d35561e5f7.584139731577440085401" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\transparent-lock-icon-law-and-justice-icon-5e05d35561e5f7.584139731577440085401.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Picture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Picture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="zyro-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zyro-image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,7 +178,13 @@
   <data name="download (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Picture" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Picture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mủi tên 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mủi tên 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mủi tên 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mủi tên 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mủi tên 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mủi tên 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
