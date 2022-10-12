@@ -8,12 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-<<<<<<< HEAD
-=======
-// Cknhat
-// Phuc
->>>>>>> parent of ed382a1 (Merge branch 'master' of https://github.com/HoangPhuc0707/DoAn_Winform_QLBanhNgot)
-
 namespace QLBanhNgot
 {
     public partial class Form1 : Form
