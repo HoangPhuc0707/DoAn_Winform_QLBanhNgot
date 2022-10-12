@@ -9,7 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
+
 //QlQanhngot
+
+// Change
+
+
 namespace QLBanhNgot
 {
     public partial class Form1 : Form
@@ -37,6 +42,10 @@ namespace QLBanhNgot
             sp.Show();
         }
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
 
     }
 }
