@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // Cknhat
+// Cknhat 2
 
 namespace QLBanhNgot
 {
